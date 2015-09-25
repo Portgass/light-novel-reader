@@ -21,7 +21,7 @@
     <a href="#c39">Chapter 39: The unstoppable war</a>
     <a href="#c40">Chapter 40: War Commences! And a Sudden Development!?</a>
 
-    <?php include 'html/chapters/c38.php'; ?>
+    <?php include 'html/chapters/c38.html'; ?>
 
     <h2 id="c39"><a href="#top">Chapter 39: The unstoppable war</a></h2>
     <p>“Were you surprised? Even though shishou looks like this, she’s at the SSS rank. Wait, I think that was a while ago..?. ” (Arnold)</p>
