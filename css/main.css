@@ -16,30 +16,34 @@ body {
 h1 {
   text-align: center;
   font-size: 68px;
-  color: rgb(180, 60, 60);
   margin: 0;
   margin-bottom: 100px;
   padding: 0;
+  color: rgb(180, 60, 60);
 }
 h2 {
   font-size: 48px;
-  color: rgb(180, 60, 60);
   margin: 100px 0;
   padding: 0;
 }
 h3 {
   font-size: 28px;
-  color: rgb(180, 60, 60);
   margin: 100px 0 50px 0;
   padding: 0;
 }
-a {
+h2 a, h3 a {
   color: rgb(180, 60, 60);
+}
+h2 a:hover, h3 a:hover {
+  color: rgb(200, 100, 100);
+}
+a {
+  color: rgb(255, 255, 255);
   text-decoration: none;
   display: block;
 }
 a:hover {
-  color: rgb(220, 120, 120);
+  color: rgb(240, 160, 160);
 }
 p {
   text-align: justify;
