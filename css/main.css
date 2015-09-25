@@ -45,5 +45,7 @@ p {
   text-align: justify;
 }
 .act {
+  font-size: 24px;
   font-weight: bold;
+  margin: 40px 0 20px 0;
 }

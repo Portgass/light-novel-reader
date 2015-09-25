@@ -52,7 +52,7 @@
 
     <a class="act" href="#a2">Act 2</a>
 
-    <h2>Act 1</h2>
+    <h2 id="a1"><a href="#top">Act 1</a></h2>
 
     <?php include 'html/chapters/c38.html'; ?>
     <?php include 'html/chapters/c39.html'; ?>
@@ -86,7 +86,7 @@
     <?php include 'html/chapters/c67.html'; ?>
     <?php include 'html/chapters/c68.html'; ?>
 
-    <h2>Act 2</h2>
+    <h2 id="a2"><a href="#top">Act 2</a></h2>
 
   </div>
 
