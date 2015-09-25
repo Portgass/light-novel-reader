@@ -7,7 +7,7 @@
   <title>Konjiki no Wordmaster</title>
   <meta name="description" content="Konjiki no Wordmaster">
   <meta name="author" content="Petr D. Svoboda">
-  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="css/main.css">
 
 </head>
 
